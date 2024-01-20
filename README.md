@@ -3,6 +3,10 @@
 ## About
 QuizMe is a versatile trivia game template built using MIT App Inventor. While this example focuses on baseball trivia, you can easily adapt it for quizzes on any topic. The app guides users through a series of questions, allowing them to input answers and receive instant feedback on correctness.
 
+## Project Interfacte
+
+![Screenshot of a QuizeMe app](https://github.com/nic-dgl104-winter-2024/nazrinzuwair/blob/main/images/QuizMe.jpg)
+
 ## Features
 - Sequential navigation through a list of questions with a "Next" button.
 - User input for each question's answer.
